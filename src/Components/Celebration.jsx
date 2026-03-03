@@ -1,3 +1,4 @@
+//eslint-disable-next-line
 import { motion } from "motion/react";
 import celebration from "../assets/celebration.gif";
 

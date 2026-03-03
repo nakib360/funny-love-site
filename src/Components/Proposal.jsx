@@ -1,6 +1,7 @@
 import { useRef, useState } from "react";
 import propose from "../assets/proposal.gif"
 import { useNavigate } from "react-router";
+//eslint-disable-next-line
 import { motion } from "framer-motion"
 
 const Proposal = () => {
