@@ -14,7 +14,7 @@ const Celebration = () => {
       </h1>
 
       <p className="mx-auto font-['Pacifico',cursive] mt-4 max-w-xl text-[clamp(1rem,2.3vw,1.15rem)] font-medium leading-relaxed text-rose-700/90">
-        No room for hate here, only love, smiles, and forever together vibes.
+        Loving you is my only destiny. You're the center of my world, through every sunrise and every star.
       </p>
     </section>
   );
