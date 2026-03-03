@@ -1,3 +1,4 @@
+import { Outlet } from "react-router";
 import "./Main.css";
 
 const hearts = Array.from({ length: 42 }, (_, i) => ({
@@ -30,7 +31,7 @@ const Main = () => {
       </div>
 
       <section className="content">
-        
+        <Outlet/>
       </section>
     </main>
   );
