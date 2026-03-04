@@ -45,7 +45,7 @@ const Celebration = () => {
           duration: 0.8,
           ease: [0.22, 1, 0.36, 1],
         }}
-        className="mx-auto mt-4 max-w-xl font-['Pacifico',cursive] text-[clamp(1rem,2.3vw,1.15rem)] font-medium leading-relaxed text-rose-700/90"
+        className="mx-auto mt-4 max-w-xl font-['Pacifico',cursive] text-[clamp(1rem,2.3vw,1.15rem)] leading-relaxed text-rose-700/90"
       >
         Loving you is my only destiny. You're the center of my world, through every sunrise and every star.
       </motion.p>
